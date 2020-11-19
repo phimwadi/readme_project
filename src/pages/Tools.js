@@ -1,7 +1,6 @@
 import React, { ReactDOM } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Bar from '../components/Bar';
-import TableHome from '../components/TableHome'
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
 import { useTranslation } from 'react-i18next';
 import QR from '../components/QR';
