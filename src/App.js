@@ -10,6 +10,9 @@ import Tools from './pages/Tools.js';
 
 import { useTranslation } from 'react-i18next';
 import i18next from 'i18next';
+// import firebase from 'firebase/app'
+// import 'firebase/auth'
+// import config from './config'
 
 function App() {
   const { t } = useTranslation();
@@ -40,13 +43,10 @@ function App() {
             Thai
          </button>
         </nav> */}
-        <header className="App-header">
+        {/* <header className="App-header">
           
-          <p>
-            
-            <h3>{t('Thanks.1')}</h3>  <h3>{t('Why.1')}</h3> 
-          </p>
-        </header>
+          
+        </header> */}
 
     </div>
   );

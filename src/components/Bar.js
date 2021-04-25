@@ -60,26 +60,13 @@ function Bar(){
             </div>
             <div>
                 <Navbar bg="dark" variant="dark">
-                    <Navbar.Brand href="#home">ReadMeTourist</Navbar.Brand>
+                    <Navbar.Brand href="#home">PKT Local Language</Navbar.Brand>
                     <Nav className="mr-auto">
                         <Nav.Link href="/">หน้าหลัก</Nav.Link>
-                        <Nav.Link href="/features">แนะนำ</Nav.Link>
                         <Nav.Link href="/tools">เครื่องมือ</Nav.Link>
+                        <Nav.Link href="/features">คำแปล</Nav.Link>
                     </Nav>
-                    <nav style={{ width: '100%', padding: '2rem 0', backgroundColor:'gray' }}>
-          <button onClick={()=>handleClick('en')} >
-            English
-          </button>
-          {/* <button onClick={()=>handleClick('ko')} >
-            Korean
-          </button>
-          <button onClick={()=>handleClick('chi')} >
-            Chinese
-         </button> */}
-         <button onClick={()=>handleClick('th')} >
-            Thai
-         </button>
-        </nav>
+                    
                 </Navbar>
             </div>
         </div>

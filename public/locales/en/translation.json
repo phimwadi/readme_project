@@ -1,14 +1,10 @@
 {
-    "Thanks": {
-        "1": "Thank you"
+    
+    "title": {
+        "1": "Fried rice"
     },
-    "Why": {
-        "1": "For watching "
-    },
-    "Describtion":{
-        "1": "This website is for Recommended tourist attractions in Thailand And to support domestic tourism"
-    },
-    "Describtion2":{
-        "1": "By introducing various tourist attractions in Thailand, including various convenient tools To tourists"
+    "describtion": {
+        "1": "(Especially in Asian cuisine) Rice that is first boiled or steamed then lightly fried in a pan,  ",
+        "2": " typically with egg, meat, or vegetables, and served as a main or side dish."
     }
 }
