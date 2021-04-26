@@ -22,7 +22,7 @@ function App() {
   // }
 
   return (
-    <div>
+    <div className="App">
       <BrowserRouter>
         <Route exact path="/" component={Home} />
         <Route exact path="/features" component={Features} />

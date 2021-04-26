@@ -25,7 +25,7 @@ class Tool extends React.Component {
                 <div>
                     <section className="my-5">
                         <h2 className="h1-responsive font-weight-bold text-center my-5">
-                            " PKT Local Language "
+                            " ReadMe Tourist "
                     </h2>
                         <p className="grey-text w-responsive text-center mx-auto mb-6">
                             " หน้านี้เป็นหน้าสำหรับอำนวยความสะดวกนักท่องเที่ยวในเรื่องของการช่วยเหลือแปลภาษาเมนูอาหาร "
